@@ -1,0 +1,1 @@
+﻿alter table CustomerTb1 add Gender varchar(10),Phone varchar(15);

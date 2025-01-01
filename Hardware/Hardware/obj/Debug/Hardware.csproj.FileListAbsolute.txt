@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Hardware\Hardware\bin\Debug\Hardware.exe.config
+C:\Users\Admin\source\repos\Hardware\Hardware\bin\Debug\Hardware.exe
+C:\Users\Admin\source\repos\Hardware\Hardware\bin\Debug\Hardware.pdb
+C:\Users\Admin\source\repos\Hardware\Hardware\bin\Debug\Guna.UI.dll
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Billing.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Categories.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Customers.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Items.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Login.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.Properties.Resources.resources
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.csproj.Up2Date
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.exe
+C:\Users\Admin\source\repos\Hardware\Hardware\obj\Debug\Hardware.pdb
